@@ -1,0 +1,15 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    max-height: 100vh;
+    max-width: 100vw;
+}
+.container {
+    width: 100%;
+    min-height: 100vh;
+    background-color: url(url(../socially_img/back-image.pn));
+}
